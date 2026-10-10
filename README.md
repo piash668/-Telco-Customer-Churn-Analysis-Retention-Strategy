@@ -45,8 +45,8 @@ Key takeaways derived from SQL queries and Power BI visualizations:
 ---
 
 ## 🖼️ Dashboard Preview
-![Telco Churn Dashboard](dashboard_screenshot.png)
-*(Upload your dashboard screenshot to the repository with the name `dashboard_screenshot.png`)*
+<img width="907" height="506" alt="image" src="https://github.com/user-attachments/assets/130e1f6f-ecc1-4219-b31d-943b257b796d" />
+
 
 ---
 
